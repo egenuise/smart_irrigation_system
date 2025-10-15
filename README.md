@@ -16,12 +16,12 @@ This is still a work in progress, but I’m sharing it here both as documentatio
 - Display soil percentage on a screen or send data to a serial monitor.
 
 ## BOM
-Capacitive Soil Moisture Sensor
-Relay Module or MOSFET
-Small water pump or solenoid valve
-LCD/OLED display (optional)
-Power supply (5–12 V depending on your pump)
+- Capacitive Soil Moisture Sensor
+- Relay Module or MOSFET
+- Small water pump or solenoid valve
+- LCD/OLED display (optional)
+- Power supply (5–12 V depending on your pump)
 
 ## Upgrade Ideas
-Add temperature and humidity sensors (DHT22 or BME280).
-Add a Bluetooth or Wi-Fi module (ESP8266) to monitor data remotely.
+- Add a Bluetooth or Wi-Fi module (ESP8266) to monitor data remotely.
+- Add temperature and humidity sensors (DHT22 or BME280).
