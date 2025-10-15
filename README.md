@@ -3,9 +3,9 @@
 Goal: Automatically water plants based on soil moisture levels.
 
 ## Features
-Read soil moisture via ADC input.\n
-If below threshold → activate pump for a set duration.\n
-Display soil % on screen or send to serial monitor.
+- Read soil moisture via ADC input.
+- If below threshold → activate pump for a set duration.
+- Display soil % on screen or send to serial monitor.
 
 ## BOM
 - Soil moisture sensor (capacitive preferred over resistive)
@@ -15,5 +15,5 @@ Display soil % on screen or send to serial monitor.
 - Power supply (5–12 V depending on your pump)
 
 ## Upgrade ideas:
-Add temperature and humidity sensors (DHT22 or BME280).
-Add a Bluetooth or Wi-Fi module (ESP8266) to monitor data remotely.
+- Add temperature and humidity sensors (DHT22 or BME280).
+- Add a Bluetooth or Wi-Fi module (ESP8266) to monitor data remotely.
